@@ -5,3 +5,5 @@ Aplikacja wykorzystująca 5 endpointów seriwsu **AccuWeather**
 3. Region List
 4. Top Cities List
 5. Autocomplete Search
+
+***Cała logika znajduje się w pliku Projekt1/ViewController.swift***
